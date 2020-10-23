@@ -11,7 +11,7 @@
         "name": "Peter 1 Dawg1", 
         "state": "good",
         "photo": "https://via.placeholder.com/600/92c952",
-        "room":703, "phone": "+1 333 3323 2323", 
+        "room":"703", "phone": "+1 333 3323 2323", 
         "address": "Lorem Ipsum is simply dummy 10 street", 
         "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ." 
     },
@@ -20,7 +20,7 @@
         "name": "Peter 2 Dawgenson", 
         "state": "good",
         "photo": "https://via.placeholder.com/600/92c952",
-        "room":703, "phone": "+1 333 3323 2323", 
+        "room":"703", "phone": "+1 333 3323 2323", 
         "address": "Lorem Ipsum is simply dummy 10 street", 
         "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ." 
     },
@@ -29,7 +29,7 @@
         "name": "Peter 3 Dawgenson", 
         "state": "goof",
         "photo": "https://via.placeholder.com/600/92c952",
-        "room":703, "phone": "+1 333 3323 2323", 
+        "room":"703", "phone": "+1 333 3323 2323", 
         "address": "Lorem Ipsum is simply dummy 10 street", 
         "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ." 
     }
